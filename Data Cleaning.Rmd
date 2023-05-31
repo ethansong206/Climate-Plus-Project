@@ -1,0 +1,26 @@
+---
+title: "Data Cleaning"
+output: html_document
+date: "2023-05-31"
+authors: Ethan Song, Amey Rathore
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+```
+
+##Load files
+***UPDATE WHEN FULL DATA IS AVAILABLE***
+```{r files}
+# DukeDiningData_Sample <- FILL IN HERE
+# CO2_values <- FILL IN HERE
+```
+
+##Convert all units to grams
+```{r unit-conversions}
+# Use this code chunk to convert DukeDiningData_Sample's 
+# `Vendor Item Purchase Unit` from whatever unit it is currently in to the equivalent in grams
+
+
+```
